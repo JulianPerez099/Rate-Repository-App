@@ -1,26 +1,17 @@
-# Project Name
+# Rate Repositories App
 
-A brief description of your project.
+This is a project to learn how to use React Native with Expo.
 
 ## Table of Contents
 
-- [Installation](Clone this repo and run npm install)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#installation)
+- [Credits](#credits)
 
 ## Installation
 
-Instructions on how to install and set up your project.
+Clone this repo and run npm install in the root directory.
+Use npx expo start to start the project.
 
-## Usage
+## Credits
 
-Instructions on how to use your project, including any examples or screenshots.
-
-## Contributing
-
-Guidelines on how others can contribute to your project.
-
-## License
-
-Information about the license for your project.
+Tutorial by [Midudev](https://www.youtube.com/@midudev)
