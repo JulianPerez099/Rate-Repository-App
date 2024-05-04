@@ -2,11 +2,6 @@
 
 This is a project to learn how to use React Native with Expo.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Credits](#credits)
-
 ## Installation
 
 Clone this repo and run npm install in the root directory.
