@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Rate-App",
-    "slug": "Rate-App",
+    "slug": "rate-repository-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d2cf21fc-f680-4822-9139-38dda4c18920"
+      }
+    },
+    "owner": "jdgp9099"
   }
 }
